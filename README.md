@@ -15,5 +15,3 @@ tablet
 ![image missing](https://github.com/Geziii/E2E_and_Backstop/blob/master/imgs/tablet.png)
 phone  
 ![image missing](https://github.com/Geziii/E2E_and_Backstop/blob/master/imgs/phone.png)  
-phone2  
-!(https://github.com/Geziii/E2E_and_Backstop/blob/master/imgs/phone.png)  
